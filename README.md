@@ -1,4 +1,10 @@
-# fire
+# firebase angular project
+
+#1 Yeoman like: yo angular init the project
+
+#2 Amend package.json add necessary package
+
+#3 Bower install firebase & angularfire
 
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.14.0.
