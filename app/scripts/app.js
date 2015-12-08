@@ -33,4 +33,5 @@ angular
       .otherwise({
         redirectTo: '/'
       });
-  });
+  })
+  .constant('URL_F', 'https://zhidao.firebaseio.com');
